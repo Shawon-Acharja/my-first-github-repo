@@ -10,3 +10,13 @@ th,td {
 h1 {
     color: gold;
 }
+nav>ul {
+    display: flex;
+}
+nav> ul li {
+    list-style: none;
+    margin-right: 10px;
+}
+nav> ul li a {
+    text-decoration: none;
+}
