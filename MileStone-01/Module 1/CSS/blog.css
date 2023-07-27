@@ -1,0 +1,12 @@
+.m2 {
+    background-image: url(Image/pragramming.png);
+}
+table {
+    border-collapse: collapse;  
+}
+th,td {
+    border: 2px solid black;
+}
+h1 {
+    color: gold;
+}
